@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DENIZ-MSI;Initial Catalog=UdemyUnitTestDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
